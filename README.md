@@ -1,4 +1,4 @@
-<h1>Hi there, I'm <a href="https://linkedin.com/in/Josh">Dmitriy</a>, I love Technology.☺</h1>
+<h1>Hi there, I'm <a href="(https://www.linkedin.com/in/dmitriy-kostov-a3a424315)">Dmitriy</a>, I love Technology.☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
